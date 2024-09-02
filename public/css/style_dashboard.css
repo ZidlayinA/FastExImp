@@ -1,0 +1,20 @@
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #f7f8f8;
+}
+
+.content {
+    padding: 20px;
+}
+.dashboard-card {
+    height: 100%;
+}
+.status-badge {
+    font-size: 0.8rem;
+}
+#subtitulo {
+    color: #0D47A1;
+}
+#navbar {
+    color: #0D47A1;
+}
