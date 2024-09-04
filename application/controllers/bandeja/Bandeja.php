@@ -11,4 +11,8 @@ class Bandeja extends CI_Controller{
     public function index(){
         $this->load->view('bandeja/index');
     }
+
+    public function dashboard(){
+        $this->load->view('app/dashboard');
+    }
 }
